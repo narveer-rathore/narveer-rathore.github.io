@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.nrathore.com/"/>
-  <updated>2017-09-04T16:59:44.860Z</updated>
+  <updated>2017-09-04T19:05:51.912Z</updated>
   <id>http://www.nrathore.com/</id>
   
   <author>
@@ -14,6 +14,63 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>URL Shortening Service</title>
+    <link href="http://www.nrathore.com/2017/09/05/URL-Shortening-Service/"/>
+    <id>http://www.nrathore.com/2017/09/05/URL-Shortening-Service/</id>
+    <published>2017-09-04T18:59:12.000Z</published>
+    <updated>2017-09-04T19:05:51.912Z</updated>
+    
+    <content type="html"><![CDATA[<p>Code at <a href="https://github.com/narveersingh/chotelinks-platform" target="_blank" rel="external">https://github.com/narveersingh/chotelinks-platform</a></p>
+<p>2017-09-05 12:31 Starting out with basic Django toolchain setup.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Code at &lt;a href=&quot;https://github.com/narveersingh/chotelinks-platform&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/narveersingh/chot
+    
+    </summary>
+    
+      <category term="web development, technology" scheme="http://www.nrathore.com/categories/web-development-technology/"/>
+    
+    
+      <category term="python, web development" scheme="http://www.nrathore.com/tags/python-web-development/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Trying out different stuff.</title>
+    <link href="http://www.nrathore.com/2017/09/05/Buckling-up/"/>
+    <id>http://www.nrathore.com/2017/09/05/Buckling-up/</id>
+    <published>2017-09-04T18:34:30.000Z</published>
+    <updated>2017-09-04T19:03:22.749Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="So-bored"><a href="#So-bored" class="headerlink" title="So bored!"></a>So bored!</h2><p>Getting pretty bored at current job position. So trying out new technology in different areas of computing by creating a couple of projects.</p>
+<p>Starting out with the one closest to Front End development.</p>
+<h3 id="Web-Back-End-Technologies"><a href="#Web-Back-End-Technologies" class="headerlink" title="Web Back End Technologies"></a>Web Back End Technologies</h3><p>For this I’ve chosen <strong>Django</strong> framework, because I’m already familiar with <strong>Python</strong> (I could have chosen <strong>Node</strong> too, but I enjoy writing code in Python, as compared to JS)</p>
+<p>Projects:</p>
+<h4 id="1-URL-Shortening-Service"><a href="#1-URL-Shortening-Service" class="headerlink" title="1. URL Shortening Service"></a>1. <a href="https://narveersingh.github.io/2017/09/05/URL-Shortening-Service/" target="_blank" rel="external">URL Shortening Service</a></h4><p>Use Case: A user can enter a long URL and can get a short URL opening which redirects user to the entered URL.</p>
+<p>Features:</p>
+<ol>
+<li>Keep track of hit per URL.</li>
+<li>Allow user to create their own URL by using their choice of string.</li>
+</ol>
+<p>The list is too fragile but the idea here is just to write down some of my goals and try to complete as much as possible. I will be adding a “progress” page for each project where I can “tweet” progress and possible make some notes.  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;So-bored&quot;&gt;&lt;a href=&quot;#So-bored&quot; class=&quot;headerlink&quot; title=&quot;So bored!&quot;&gt;&lt;/a&gt;So bored!&lt;/h2&gt;&lt;p&gt;Getting pretty bored at current job position
+    
+    </summary>
+    
+      <category term="technology" scheme="http://www.nrathore.com/categories/technology/"/>
+    
+    
+      <category term="info" scheme="http://www.nrathore.com/tags/info/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello, world!</title>
