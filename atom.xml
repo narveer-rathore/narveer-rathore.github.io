@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>narveer speaks</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.nrathore.com/"/>
+  <updated>2017-09-04T16:59:44.860Z</updated>
+  <id>http://www.nrathore.com/</id>
+  
+  <author>
+    <name>Narveer Singh Rathore</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, world!</title>
+    <link href="http://www.nrathore.com/2017/09/04/Starting-out/"/>
+    <id>http://www.nrathore.com/2017/09/04/Starting-out/</id>
+    <published>2017-09-04T15:46:49.000Z</published>
+    <updated>2017-09-04T16:59:44.860Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="First-Blood"><a href="#First-Blood" class="headerlink" title="First Blood !!"></a>First Blood !!</h2><p>Big shout out to developers at <a href="https://hexo.io/" target="_blank" rel="external">Hexo.js</a> and <a href="https://hinpc.github.io/Daily/" target="_blank" rel="external">daily-theme</a>, for an awesome framework and a fantastic theme.</p>
+<p>Lets see how long this will last…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;First-Blood&quot;&gt;&lt;a href=&quot;#First-Blood&quot; class=&quot;headerlink&quot; title=&quot;First Blood !!&quot;&gt;&lt;/a&gt;First Blood !!&lt;/h2&gt;&lt;p&gt;Big shout out to developers 
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
