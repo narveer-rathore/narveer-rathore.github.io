@@ -127,7 +127,20 @@
         <!-- Post Main Content -->
         <div class="entry-content">
           <p>Code at <a href="https://github.com/narveersingh/chotelinks-platform" target="_blank" rel="external">https://github.com/narveersingh/chotelinks-platform</a></p>
-<p>2017-09-05 12:31 Starting out with basic Django toolchain setup.</p>
+<p>(<em>2017-09-05</em>)<br>Starting out with basic Django toolchain setup.</p>
+<p>Django Apps are independent modules doing a specific task.<br>To create: python manage.py startapp MyApp</p>
+<p>Model are abstracted representation of data for database. To make one just create a class that inherits from models.model in models.py and register that class in admin.py, so that it can be visible in Django admin.</p>
+<p>(<em>2017-09-06</em>)<br>Need to create and run migrations after every change in a model. It create a new file everytime specifying operations that takes Database from one state to another. <em>Creates a lot of files !</em></p>
+<p>Before adding new fields to existing models, Django needs some value to populate in existing objects. We can pass null=True or default=”some value” to the field constructor.<br>For eg. someObj = models.CharField(max_length=64, null=True)<br>        someObj = models.CharField(max_length=64, default=”some default value”)</p>
+<p>(<em>2017-09-07</em>)<br>Generating random short url from given url.</p>
+<ol>
+<li>Check if URL is already shortened before. If yes return short URL.</li>
+<li>If not, Generate random string, check if it is not assigned for an existing URL.</li>
+<li>If yes, go to step 2</li>
+<li>Else save string as short url for new URL</li>
+</ol>
+<p>A naive approach (need further investigation)</p>
+<p>Using model manager for returning only active url from the database. So, if an url is marked as<br>active = False, then it will not show up in any querysets that will be returned from overridden methods.  </p>
 
         </div>
       </article>
