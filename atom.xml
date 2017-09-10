@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.nrathore.com/"/>
-  <updated>2017-09-07T19:02:36.409Z</updated>
+  <updated>2017-09-10T20:17:07.299Z</updated>
   <id>http://www.nrathore.com/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="http://www.nrathore.com/2017/09/05/URL-Shortening-Service/"/>
     <id>http://www.nrathore.com/2017/09/05/URL-Shortening-Service/</id>
     <published>2017-09-04T18:59:12.000Z</published>
-    <updated>2017-09-07T19:02:36.409Z</updated>
+    <updated>2017-09-10T20:17:07.299Z</updated>
     
     <content type="html"><![CDATA[<p>Code at <a href="https://github.com/narveersingh/chotelinks-platform" target="_blank" rel="external">https://github.com/narveersingh/chotelinks-platform</a></p>
-<p>(<em>2017-09-05</em>)<br>Starting out with basic Django toolchain setup.</p>
-<p>Django Apps are independent modules doing a specific task.<br>To create: python manage.py startapp MyApp</p>
-<p>Model are abstracted representation of data for database. To make one just create a class that inherits from models.model in models.py and register that class in admin.py, so that it can be visible in Django admin.</p>
+<h3 id="Dropping-this-project"><a href="#Dropping-this-project" class="headerlink" title="Dropping this project"></a>Dropping this project</h3><p><em>Why?</em></p>
+<p>Learning API development is fun, challanging and rewarding, but I think with internet, it is just figuring out a way how a piece of technology works by googling, reading documentation and wiring things together. You might say that there is more to this, like Databases, Scalablity and User Interfaces, but for me it is <em>boring</em>. I know if required, I can get quickly learn but to squeeze learning time from a full time job for a less intriguing task is more like drinking poison for not setting foot on moon.</p>
 <p>(<em>2017-09-06</em>)<br>Need to create and run migrations after every change in a model. It create a new file everytime specifying operations that takes Database from one state to another. <em>Creates a lot of files !</em></p>
+<p>Migrations can be squashed.</p>
 <p>Before adding new fields to existing models, Django needs some value to populate in existing objects. We can pass null=True or default=”some value” to the field constructor.<br>For eg. someObj = models.CharField(max_length=64, null=True)<br>        someObj = models.CharField(max_length=64, default=”some default value”)</p>
 <p>(<em>2017-09-07</em>)<br>Generating random short url from given url.</p>
 <ol>
@@ -35,8 +35,11 @@
 <li>If yes, go to step 2</li>
 <li>Else save string as short url for new URL</li>
 </ol>
-<p>A naive approach (need further investigation)</p>
-<p>Using model manager for returning only active url from the database. So, if an url is marked as<br>active = False, then it will not show up in any querysets that will be returned from overridden methods.  </p>
+<p>A naive approach (will come back to it once it starts working <em>need further investigation</em>)</p>
+<p>Can use md5 (reversing URL before) or counter</p>
+<p>Using <em>Model Manager</em> for returning only active url from the database. So, if an url is marked as<br>active = False, then it will not show up in any querysets that will be returned from overridden methods.  </p>
+<p><em>Custom Commands</em><br>Creating a custom Django command to load dummy data into database.<br><a href="https://www.mockaroo.com/" target="_blank" rel="external">Mockaroo</a> is good for generating test data.</p>
+<p>Instead of creating a custom command, I can use fixtures to load initial data but need to convert CSV to YAML, so that loaddata can parse data correctly. Found a snippet that converts CSV to JSON,  <a href="https://djangosnippets.org/snippets/1680/" target="_blank" rel="external">this</a> but writing a script to convert CSV to yaml.</p>
 ]]></content>
     
     <summary type="html">
