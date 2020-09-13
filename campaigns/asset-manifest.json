@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.fc8da0f7.chunk.css",
-    "main.js": "./static/js/main.96031ad3.chunk.js",
-    "main.js.map": "./static/js/main.96031ad3.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.3b144576.js",
-    "runtime-main.js.map": "./static/js/runtime-main.3b144576.js.map",
-    "static/css/2.8d4cdce2.chunk.css": "./static/css/2.8d4cdce2.chunk.css",
-    "static/js/2.dfe2e710.chunk.js": "./static/js/2.dfe2e710.chunk.js",
-    "static/js/2.dfe2e710.chunk.js.map": "./static/js/2.dfe2e710.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.81690a4fe82f3c400c7efb89289e4bdf.js": "./precache-manifest.81690a4fe82f3c400c7efb89289e4bdf.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.8d4cdce2.chunk.css.map": "./static/css/2.8d4cdce2.chunk.css.map",
-    "static/css/main.fc8da0f7.chunk.css.map": "./static/css/main.fc8da0f7.chunk.css.map",
-    "static/js/2.dfe2e710.chunk.js.LICENSE.txt": "./static/js/2.dfe2e710.chunk.js.LICENSE.txt",
-    "static/media/default-game-thumbnail.png": "./static/media/default-game-thumbnail.44ec242a.png",
-    "static/media/index.scss": "./static/media/icomoon.f66de82e.svg"
+    "main.css": "/campaigns/static/css/main.2a523cd0.chunk.css",
+    "main.js": "/campaigns/static/js/main.da5fa4e9.chunk.js",
+    "main.js.map": "/campaigns/static/js/main.da5fa4e9.chunk.js.map",
+    "runtime-main.js": "/campaigns/static/js/runtime-main.af90f7fc.js",
+    "runtime-main.js.map": "/campaigns/static/js/runtime-main.af90f7fc.js.map",
+    "static/css/2.8d4cdce2.chunk.css": "/campaigns/static/css/2.8d4cdce2.chunk.css",
+    "static/js/2.dfe2e710.chunk.js": "/campaigns/static/js/2.dfe2e710.chunk.js",
+    "static/js/2.dfe2e710.chunk.js.map": "/campaigns/static/js/2.dfe2e710.chunk.js.map",
+    "index.html": "/campaigns/index.html",
+    "precache-manifest.dedb886a127aa69488d25555f28e36f6.js": "/campaigns/precache-manifest.dedb886a127aa69488d25555f28e36f6.js",
+    "service-worker.js": "/campaigns/service-worker.js",
+    "static/css/2.8d4cdce2.chunk.css.map": "/campaigns/static/css/2.8d4cdce2.chunk.css.map",
+    "static/css/main.2a523cd0.chunk.css.map": "/campaigns/static/css/main.2a523cd0.chunk.css.map",
+    "static/js/2.dfe2e710.chunk.js.LICENSE.txt": "/campaigns/static/js/2.dfe2e710.chunk.js.LICENSE.txt",
+    "static/media/default-game-thumbnail.png": "/campaigns/static/media/default-game-thumbnail.44ec242a.png",
+    "static/media/index.scss": "/campaigns/static/media/icomoon.f66de82e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b144576.js",
+    "static/js/runtime-main.af90f7fc.js",
     "static/css/2.8d4cdce2.chunk.css",
     "static/js/2.dfe2e710.chunk.js",
-    "static/css/main.fc8da0f7.chunk.css",
-    "static/js/main.96031ad3.chunk.js"
+    "static/css/main.2a523cd0.chunk.css",
+    "static/js/main.da5fa4e9.chunk.js"
   ]
 }
