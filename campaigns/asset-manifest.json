@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/campaigns/static/css/main.89bd1e2b.chunk.css",
-    "main.js": "/campaigns/static/js/main.cd5f5e7b.chunk.js",
-    "main.js.map": "/campaigns/static/js/main.cd5f5e7b.chunk.js.map",
+    "main.css": "/campaigns/static/css/main.39666e46.chunk.css",
+    "main.js": "/campaigns/static/js/main.39ccaaef.chunk.js",
+    "main.js.map": "/campaigns/static/js/main.39ccaaef.chunk.js.map",
     "runtime-main.js": "/campaigns/static/js/runtime-main.af90f7fc.js",
     "runtime-main.js.map": "/campaigns/static/js/runtime-main.af90f7fc.js.map",
     "static/css/2.8d4cdce2.chunk.css": "/campaigns/static/css/2.8d4cdce2.chunk.css",
-    "static/js/2.12ba99af.chunk.js": "/campaigns/static/js/2.12ba99af.chunk.js",
-    "static/js/2.12ba99af.chunk.js.map": "/campaigns/static/js/2.12ba99af.chunk.js.map",
+    "static/js/2.b648ce27.chunk.js": "/campaigns/static/js/2.b648ce27.chunk.js",
+    "static/js/2.b648ce27.chunk.js.map": "/campaigns/static/js/2.b648ce27.chunk.js.map",
     "index.html": "/campaigns/index.html",
-    "precache-manifest.87e4ad9d7c3967e1ac41ebf48618a6d0.js": "/campaigns/precache-manifest.87e4ad9d7c3967e1ac41ebf48618a6d0.js",
+    "precache-manifest.2d2cf14578fb718759dd84b7bb79aa73.js": "/campaigns/precache-manifest.2d2cf14578fb718759dd84b7bb79aa73.js",
     "service-worker.js": "/campaigns/service-worker.js",
     "static/css/2.8d4cdce2.chunk.css.map": "/campaigns/static/css/2.8d4cdce2.chunk.css.map",
-    "static/css/main.89bd1e2b.chunk.css.map": "/campaigns/static/css/main.89bd1e2b.chunk.css.map",
-    "static/js/2.12ba99af.chunk.js.LICENSE.txt": "/campaigns/static/js/2.12ba99af.chunk.js.LICENSE.txt",
+    "static/css/main.39666e46.chunk.css.map": "/campaigns/static/css/main.39666e46.chunk.css.map",
+    "static/js/2.b648ce27.chunk.js.LICENSE.txt": "/campaigns/static/js/2.b648ce27.chunk.js.LICENSE.txt",
     "static/media/default-game-thumbnail.png": "/campaigns/static/media/default-game-thumbnail.44ec242a.png",
     "static/media/index.scss": "/campaigns/static/media/icomoon.f66de82e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.af90f7fc.js",
     "static/css/2.8d4cdce2.chunk.css",
-    "static/js/2.12ba99af.chunk.js",
-    "static/css/main.89bd1e2b.chunk.css",
-    "static/js/main.cd5f5e7b.chunk.js"
+    "static/js/2.b648ce27.chunk.js",
+    "static/css/main.39666e46.chunk.css",
+    "static/js/main.39ccaaef.chunk.js"
   ]
 }
