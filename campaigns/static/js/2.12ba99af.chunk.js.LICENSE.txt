@@ -90,3 +90,5 @@ object-assign
  */
 
 //! moment.js
+
+//! moment.js locale configuration
