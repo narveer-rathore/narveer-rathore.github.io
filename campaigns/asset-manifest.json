@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/campaigns/static/css/main.39666e46.chunk.css",
-    "main.js": "/campaigns/static/js/main.39ccaaef.chunk.js",
-    "main.js.map": "/campaigns/static/js/main.39ccaaef.chunk.js.map",
+    "main.js": "/campaigns/static/js/main.9c6ce376.chunk.js",
+    "main.js.map": "/campaigns/static/js/main.9c6ce376.chunk.js.map",
     "runtime-main.js": "/campaigns/static/js/runtime-main.af90f7fc.js",
     "runtime-main.js.map": "/campaigns/static/js/runtime-main.af90f7fc.js.map",
     "static/css/2.8d4cdce2.chunk.css": "/campaigns/static/css/2.8d4cdce2.chunk.css",
     "static/js/2.b648ce27.chunk.js": "/campaigns/static/js/2.b648ce27.chunk.js",
     "static/js/2.b648ce27.chunk.js.map": "/campaigns/static/js/2.b648ce27.chunk.js.map",
     "index.html": "/campaigns/index.html",
-    "precache-manifest.2d2cf14578fb718759dd84b7bb79aa73.js": "/campaigns/precache-manifest.2d2cf14578fb718759dd84b7bb79aa73.js",
+    "precache-manifest.c2a5a8cb7656104c61b94e224c4a741a.js": "/campaigns/precache-manifest.c2a5a8cb7656104c61b94e224c4a741a.js",
     "service-worker.js": "/campaigns/service-worker.js",
     "static/css/2.8d4cdce2.chunk.css.map": "/campaigns/static/css/2.8d4cdce2.chunk.css.map",
     "static/css/main.39666e46.chunk.css.map": "/campaigns/static/css/main.39666e46.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.8d4cdce2.chunk.css",
     "static/js/2.b648ce27.chunk.js",
     "static/css/main.39666e46.chunk.css",
-    "static/js/main.39ccaaef.chunk.js"
+    "static/js/main.9c6ce376.chunk.js"
   ]
 }
