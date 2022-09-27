@@ -1,7 +1,7 @@
 ---
 title: Trying out different stuff.
 date: 2017-09-05 21:32:51
-excerpt: getting bored at my current job designation
+excerpt: Getting bored at my current job designation, lets explore..
 tags: practice
 layout: post
 ---
