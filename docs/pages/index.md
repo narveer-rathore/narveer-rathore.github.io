@@ -1,6 +1,8 @@
 ---
 layout: default
+title: blog | narveer.speaks
 permalink: /
+weight: 2
 ---
 
-{% include landing.html %}
+{% include blog/index.html %}
