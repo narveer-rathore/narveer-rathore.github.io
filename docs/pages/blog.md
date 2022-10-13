@@ -1,6 +1,6 @@
 ---
 layout: page
 title: blog
-permalink: https://blog.narveer.dev/
+external_url: https://blog.narveer.dev/
 weight: 0
 ---
