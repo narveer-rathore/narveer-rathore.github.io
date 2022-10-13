@@ -1,8 +1,6 @@
 ---
 layout: page
 title: blog
-permalink: /
+permalink: https://blog.narveer.dev/
 weight: 0
 ---
-
-{% include blog/index.html %}
