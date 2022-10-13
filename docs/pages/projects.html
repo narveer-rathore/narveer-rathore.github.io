@@ -3,9 +3,30 @@ layout: default
 title: projects
 permalink: /projects/
 weight: 1
-remote_projects: 
-  - git-for-wizards
-  - arduino-visitor-counter
+remote_projects:
+- git-for-wizards
+- arduino-visitor-counter
 ---
+<style>
+  .flare {
+    position: absolute;
+    padding: 0 10px;
+    background: black;
+    color: white;
+    font-size: 22px;
+    border-bottom-right-radius: 14px;
+  }
+
+  .project-date {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: #333;
+    color: white;
+    padding: 3px 3px 3px 10px;
+    border-top-left-radius: 13px;
+    font-size: 13px;
+  }
+</style>
 
 {% include projects/index.html %}
