@@ -18,6 +18,9 @@ weight: 2
 .avatar:hover {
     filter: opacity(0.5);
 }
+.emp {
+    font-size: 2em;
+}
 @media screen and (max-width: 600px) {
     .d-mob-none {
         display: none;
@@ -30,8 +33,8 @@ weight: 2
     <h2 class="d-mob-none"><b>about me</b></h2>
     <img class="avatar" src="assets/image.jpg" alt="picture of narveer rathore" />
     <p>
-    Hi, I am {{ site.author.name }} :wave:<br>
-    <br /> I am a web developer at <a href="https://now.gg" target="_blank">now.gg</a><br /> and I believe that boredom can <br > do wonders.
+    <span class="emp">Hi,</span> I am {{ site.author.name }} :wave:<br>
+    <br /> I am a web developer at <a href="https://now.gg" target="_blank">now.gg</a><br /> and I believe that boredom can <br > do <span class="emp">wonders</span>.
     </p>
 </div>
 <div>
