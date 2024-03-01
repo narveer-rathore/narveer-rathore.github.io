@@ -34,7 +34,7 @@ weight: 2
     <img class="avatar" src="assets/image.jpg" alt="picture of narveer rathore" />
     <p>
     <span class="emp">Hi,</span> I am {{ site.author.name }} :wave:<br>
-    <br /> I am a web developer at <a href="https://now.gg" target="_blank">now.gg</a><br /> and I believe that boredom can <br > do <span class="emp">wonders</span>.
+    <br /> I am Team Lead (Frontend) at <a href="https://now.gg" target="_blank">now.gg</a><br /> and I believe that boredom can <br > do <span class="emp">wonders</span>.
     </p>
 </div>
 <div>
