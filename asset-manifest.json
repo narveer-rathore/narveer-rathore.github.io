@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/narveer-rathore/narveer-rathore.github.io/static/css/main.3f02acc7.css",
-    "main.js": "/narveer-rathore/narveer-rathore.github.io/static/js/main.f33beec1.js",
-    "index.html": "/narveer-rathore/narveer-rathore.github.io/index.html",
-    "main.3f02acc7.css.map": "/narveer-rathore/narveer-rathore.github.io/static/css/main.3f02acc7.css.map",
-    "main.f33beec1.js.map": "/narveer-rathore/narveer-rathore.github.io/static/js/main.f33beec1.js.map"
+    "main.css": "/static/css/main.3f02acc7.css",
+    "main.js": "/static/js/main.9d7e38c8.js",
+    "index.html": "/index.html",
+    "main.3f02acc7.css.map": "/static/css/main.3f02acc7.css.map",
+    "main.9d7e38c8.js.map": "/static/js/main.9d7e38c8.js.map"
   },
   "entrypoints": [
     "static/css/main.3f02acc7.css",
-    "static/js/main.f33beec1.js"
+    "static/js/main.9d7e38c8.js"
   ]
 }
