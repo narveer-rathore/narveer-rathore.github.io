@@ -1,7 +1,0 @@
-- name: AWS 
-  percentage: 95
-  color: info
-
-- name: Jenkins
-  percentage: 90
-  color: success
